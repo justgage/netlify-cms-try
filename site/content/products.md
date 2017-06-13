@@ -1,8 +1,8 @@
 ---
-title: Our Coffee
+title: Gentle Birth and Women's Health
 type: products
 page: /products.html
-image: /img/products/jumbotron.jpg
+image: /img/mother-with-baby.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
